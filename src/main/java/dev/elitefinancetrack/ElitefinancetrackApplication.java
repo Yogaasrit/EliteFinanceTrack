@@ -8,6 +8,6 @@ public class ElitefinancetrackApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ElitefinancetrackApplication.class, args);
-		System.out.println("Hello from Elite Finance Tracker Application");
+		System.out.println("Hello from Elite Finance Tracker Application"); // Nice
 	}
 }
